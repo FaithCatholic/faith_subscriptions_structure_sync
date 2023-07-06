@@ -1,0 +1,8 @@
+name: Faith Subscriptions Structure Sync
+type: module
+description: Imports and syncs structural content such as certain taxonomies, menus, and blocks.
+package: Faith subscriptions miscellaneous
+core_version_requirement: ^9 || ^10
+dependencies:
+  - drupal:structure_sync
+  - drupal:taxonomy

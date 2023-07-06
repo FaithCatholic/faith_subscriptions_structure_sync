@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+name: Colors
+vid: colors
+description: 'Provides colors for publications.'
+weight: 0
